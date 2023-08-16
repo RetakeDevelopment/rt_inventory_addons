@@ -48,7 +48,8 @@ You can modify the values of the properties based on your needs.
 
 Save the changes and run the code with the new item configuration.
 
-# Automatic Item Carrying Script for ox_inventory
+# Item Carry
+# Configuration Variables
 This script is used to automatically carry items when using ox_inventory in your FiveM resource. By adding entries to the CARRY_ITEMS table, you can define the animations, prop models, and placement positions for different items that your players can carry.
 
 # Adding New Entries to CARRY_ITEMS
